@@ -4,7 +4,7 @@ I am a software developer from Brazil. 🇧🇷
 
 Currently working and living in Sydney, Australia. 🇦🇺 (#WFH 🏡)
 
-Since 2019, most of my time is well invested at [Q-CTRL](https://q-ctrl.com) writting Python 🐍 code as a Senior Back-end Engineer.
+Since 2019, most of my time is well invested at [Q-CTRL](https://q-ctrl.com) writing Python 🐍 code as a Senior Back-end Engineer.
 
 Before 🐍 python (❤️ my favorite language) I worked with PHP, NodeJS, AngularJS, Genexus, Oracle (PL/SQL) and some Java.
 
