@@ -2,7 +2,7 @@
 
 I am a software developer from Brazil. 🇧🇷
 
-Currently working and living in Sydney, Australia. 🇦🇺 (#WFH 🏡)
+Currently working and living in Adelaide, Australia. 🇦🇺 (#WFH 🏡)
 
 Since 2019, most of my time is well invested at [Q-CTRL](https://q-ctrl.com) writing Python 🐍 code as a Senior Back-end Engineer.
 
