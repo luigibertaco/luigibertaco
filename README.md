@@ -12,7 +12,6 @@ Before 🐍 python (❤️ my favorite language) I worked with PHP, NodeJS, Angu
 
 - 🇧🇷 I speak Portuguese and 🇬🇧 English.
 - 🔭 I like looking/learning/understanding the observable universe and have been trying to 📸 capture its beuty.
-- 🏕️ I have a campervan and have plans on living and working from somewhere in the woods every now and then.
 - 🤔 I enjoy discussing phylosophy and politics with anyone who likes peaceful debates.
 - 🎸 I love rock music 🤘 (used to play and sing on a punk rock band a long time ago).
 
